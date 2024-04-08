@@ -7,7 +7,7 @@ app.use(express.json());
 
 app.get('/', (req, res) => {
     // res.json({ message: 'Merhaba Arkadaşlar' });
-    res.send('Hello From BACKEND SIDE (mcc1461)');
+    res.send('Hello From BACKEND SIDE (mcc1461xxx)');
 });
 
 app.listen(8005, () => {
